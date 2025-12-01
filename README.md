@@ -40,4 +40,4 @@ https://raw.githubusercontent.com/AshishRajx7/bajaj-finserv-webhook-java/main/de
 https://github.com/AshishRajx7/bajaj-finserv-webhook-java
 
 ## Author
-Ashsih Raj
+Ashish Raj
