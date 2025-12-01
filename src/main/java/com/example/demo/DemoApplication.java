@@ -9,7 +9,6 @@ public class DemoApplication implements CommandLineRunner {
 
 	private final WebhookService webhookService;
 
-	// constructor injection
 	public DemoApplication(WebhookService webhookService) {
 		this.webhookService = webhookService;
 	}
