@@ -11,7 +11,7 @@ public class WebhookService {
 
     private final RestTemplate restTemplate;
 
-    // manual constructor (this fixes the error)
+
     public WebhookService(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;
     }
