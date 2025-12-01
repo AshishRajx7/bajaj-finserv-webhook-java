@@ -25,8 +25,8 @@ public class WebhookService {
 
         Map<String, String> body = Map.of(
                 "name", "Ashish Raj",
-                "regNo", "REG12347",
-                "email", "ashish@example.com"
+                "regNo", "22BLC1009",
+                "email", "ashish.raj2022a@vitstudent.ac.in"
         );
 
         HttpHeaders headers = new HttpHeaders();
